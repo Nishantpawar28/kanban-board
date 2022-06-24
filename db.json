@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "contact": "",
+      "username": "Bret",
+      "email": "bret@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "contact": "1234567890",
+      "username": "Antonette",
+      "email": "ant@gmail.com",
+      "password": "45689"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "contact": "5555567890",
+      "username": "Samantha",
+      "email": "sam@gmail.com",
+      "password": "43234"
+    },
+    {
+      "id": 4,
+      "name": "Lisa Manoban",
+      "contact": "1111111111",
+      "username": "Lisa",
+      "email": "lisa@gmail.com",
+      "password": "11111"
+    }
+  ]
+}
